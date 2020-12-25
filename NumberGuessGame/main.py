@@ -4,7 +4,6 @@ import random
 
 # Choose a random number between 1 and 100 including both
 number = random.randint(1, 100)
-# print(f"number = {number}")
 
 print(logo)
 
